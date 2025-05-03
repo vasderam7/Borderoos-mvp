@@ -1,0 +1,42 @@
+{
+  "traveller_name": "Vasanth Ramanujam",
+  "booking_reference": "YBVVUJ",
+  "flights": [
+    {
+      "airline": "AirAsia",
+      "flight_number": "D7 223",
+      "departure_airport": "Sydney (Kingsford Smith) Airport, Terminal 1",
+      "arrival_airport": "Kuala Lumpur International Airport, Terminal 2",
+      "departure_time": "2025-05-14T09:15:00+10:00",
+      "arrival_time": "2025-05-14T16:25:00+08:00",
+      "seat": "3A",
+      "baggage": "20kg checked, 7kg carry-on",
+      "meal": "Grilled Peri Chicken with Jollof Rice",
+      "addons": [
+        "Baggage Delay 1hr OTG",
+        "Trip Cancellation Protection",
+        "2x FREE Flight Change"
+      ]
+    },
+    {
+      "airline": "AirAsia",
+      "flight_number": "AK 11",
+      "departure_airport": "Kuala Lumpur International Airport, Terminal 2",
+      "arrival_airport": "Chennai International Airport, Terminal 2",
+      "departure_time": "2025-05-15T06:30:00+08:00",
+      "arrival_time": "2025-05-15T07:45:00+05:30",
+      "seat": "22G",
+      "baggage": "20kg checked, 7kg carry-on",
+      "meal": "Roasted Chicken with Black Pepper Sauce",
+      "addons": [
+        "Baggage Delay 1hr OTG",
+        "Trip Cancellation Protection",
+        "2x FREE Flight Change"
+      ]
+    }
+  ],
+  "layover": {
+    "location": "Kuala Lumpur",
+    "duration": "14h 5m"
+  }
+}
